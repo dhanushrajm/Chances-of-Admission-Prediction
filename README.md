@@ -1,5 +1,5 @@
 # Chances-of-Admission-Prediction
-In this repo, we will see about the Chance of Admission for Higher Studies
+In this repo, we will see about the Chance of Admission for Higher Studies.
 Predict the chances of admission of a student to a Graduate program based on:
 
 1. GRE Scores (290 to 340)
